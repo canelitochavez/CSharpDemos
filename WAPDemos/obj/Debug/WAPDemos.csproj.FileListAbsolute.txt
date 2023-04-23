@@ -1,0 +1,12 @@
+C:\Users\Armandos\source\repos\CSharpDemos\WAPDemos\bin\Debug\WAPDemos.exe.config
+C:\Users\Armandos\source\repos\CSharpDemos\WAPDemos\bin\Debug\WAPDemos.exe
+C:\Users\Armandos\source\repos\CSharpDemos\WAPDemos\bin\Debug\WAPDemos.pdb
+C:\Users\Armandos\source\repos\CSharpDemos\WAPDemos\obj\Debug\WAPDemos.csproj.AssemblyReference.cache
+C:\Users\Armandos\source\repos\CSharpDemos\WAPDemos\obj\Debug\WAPDemos.Properties.Resources.resources
+C:\Users\Armandos\source\repos\CSharpDemos\WAPDemos\obj\Debug\WAPDemos.csproj.GenerateResource.cache
+C:\Users\Armandos\source\repos\CSharpDemos\WAPDemos\obj\Debug\WAPDemos.csproj.CoreCompileInputs.cache
+C:\Users\Armandos\source\repos\CSharpDemos\WAPDemos\obj\Debug\WAPDemos.exe
+C:\Users\Armandos\source\repos\CSharpDemos\WAPDemos\obj\Debug\WAPDemos.pdb
+C:\Users\Armandos\source\repos\CSharpDemos\WAPDemos\obj\Debug\WAPDemos.frmExampleHandler.resources
+C:\Users\Armandos\source\repos\CSharpDemos\WAPDemos\obj\Debug\WAPDemos.frmDemo01_Ordenar.resources
+C:\Users\Armandos\source\repos\CSharpDemos\WAPDemos\obj\Debug\WAPDemos.frmDemo02_Ordenar.resources

@@ -53,6 +53,7 @@ namespace WAPDemos
             this.btnArrayUnsorted.TabIndex = 1;
             this.btnArrayUnsorted.Text = "Array Unsorted";
             this.btnArrayUnsorted.UseVisualStyleBackColor = true;
+            this.btnArrayUnsorted.Click += new System.EventHandler(this.btnArrayUnsorted_Click);
             // 
             // btnArraySortedDefault
             // 
@@ -62,6 +63,7 @@ namespace WAPDemos
             this.btnArraySortedDefault.TabIndex = 2;
             this.btnArraySortedDefault.Text = "Array Sorted Default";
             this.btnArraySortedDefault.UseVisualStyleBackColor = true;
+            this.btnArraySortedDefault.Click += new System.EventHandler(this.btnArraySortedDefault_Click);
             // 
             // btnArraySortedAscendingNumericValue
             // 
@@ -71,6 +73,7 @@ namespace WAPDemos
             this.btnArraySortedAscendingNumericValue.TabIndex = 3;
             this.btnArraySortedAscendingNumericValue.Text = "Array Sorted Ascending of numeric value";
             this.btnArraySortedAscendingNumericValue.UseVisualStyleBackColor = true;
+            this.btnArraySortedAscendingNumericValue.Click += new System.EventHandler(this.btnArraySortedAscendingNumericValue_Click);
             // 
             // btnArraySortedDescendingNumericValue
             // 
@@ -80,6 +83,7 @@ namespace WAPDemos
             this.btnArraySortedDescendingNumericValue.TabIndex = 4;
             this.btnArraySortedDescendingNumericValue.Text = "Array Sorted Descending of numeric value";
             this.btnArraySortedDescendingNumericValue.UseVisualStyleBackColor = true;
+            this.btnArraySortedDescendingNumericValue.Click += new System.EventHandler(this.btnArraySortedDescendingNumericValue_Click);
             // 
             // btnArraySortedDescendingStringValue
             // 
@@ -89,6 +93,7 @@ namespace WAPDemos
             this.btnArraySortedDescendingStringValue.TabIndex = 5;
             this.btnArraySortedDescendingStringValue.Text = "Array Sorted Descending of string value";
             this.btnArraySortedDescendingStringValue.UseVisualStyleBackColor = true;
+            this.btnArraySortedDescendingStringValue.Click += new System.EventHandler(this.btnArraySortedDescendingStringValue_Click);
             // 
             // frmDemo02_Ordenar
             // 
@@ -103,6 +108,7 @@ namespace WAPDemos
             this.Controls.Add(this.txtConsole);
             this.Name = "frmDemo02_Ordenar";
             this.Text = "frmDemo02_Ordenar";
+            this.Load += new System.EventHandler(this.frmDemo02_Ordenar_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
 
